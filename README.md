@@ -1,7 +1,7 @@
 
 
 <div>
-  <h1>Hi, I'm Alexander Seitov</h1>
+  <h1>Hi, I'm Alexander</h1>
   
   #### Repositories
   
