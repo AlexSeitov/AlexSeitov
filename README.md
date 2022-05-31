@@ -8,10 +8,10 @@
   
   #### Repositories
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=noctis_minimus&repo=gifts-and-merch)](https://github.com/AlexSeitov/gifts-and-merch)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=noctis_minimus&repo=inkom-layout)](https://github.com/AlexSeitov/inkom-layout)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=noctis_minimus&repo=advoproverka-layout)](https://github.com/AlexSeitov/advoproverka-website-layout)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=noctis_minimus&repo=gulp-webpack-starter )](https://github.com/AlexSeitov/gulp-webpack-starter)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=calm&repo=gifts-and-merch)](https://github.com/AlexSeitov/gifts-and-merch)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=calm&repo=inkom-layout)](https://github.com/AlexSeitov/inkom-layout)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=calm&repo=advoproverka-layout)](https://github.com/AlexSeitov/advoproverka-website-layout)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=calm&repo=gulp-webpack-starter )](https://github.com/AlexSeitov/gulp-webpack-starter)
   
 <!--   <a href="https://github.com/AlexSeitov/gifts-and-merch">
     <img src="https://camo.githubusercontent.com/267667a69ec609f7e043549e7b58ae65743be963fc5ff5761073143d64c6ba15/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d416c6578536569746f76267468656d653d70616e6461267265706f3d67696674732d616e642d6d65726368" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=gifts-and-merch" width="350px" />
@@ -35,10 +35,10 @@
   #### Statistics    
   
   <a href="https://github.com/AlexSeitov">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=noctis_minimus" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=calm" />
   </a>
   <a href="https://github.com/AlexSeitov">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=noctis_minimus" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=calm" />
   </a>
  
 </div>
