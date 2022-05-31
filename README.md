@@ -3,6 +3,8 @@
 <div>
   <h1>Hi, I'm Alexander Seitov</h1>
   
+  #### Repositories
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=gotham&repo=gifts-and-merch)](https://github.com/AlexSeitov/gifts-and-merch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=gotham&repo=inkom-layout)](https://github.com/AlexSeitov/inkom-layout)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=gotham&repo=advoproverka-layout)](https://github.com/AlexSeitov/advoproverka-website-layout)
@@ -26,14 +28,16 @@
   
   ---
   
-  <div>
-    <a href="https://github.com/AlexSeitov">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
-    </a>
-    <a href="https://github.com/AlexSeitov">
-      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
-    </a>
-  </div>
+  
+  #### Statistics    
+  
+  <a href="https://github.com/AlexSeitov">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
+  </a>
+  <a href="https://github.com/AlexSeitov">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
+  </a>
+ 
 </div>
 
 
