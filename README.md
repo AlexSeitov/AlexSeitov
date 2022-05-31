@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="center" background="#ccc">
   
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=gifts-and-merch)](https://github.com/AlexSeitov/gifts-and-merch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=inkom-layout)](https://github.com/AlexSeitov/inkom-layout)
@@ -24,6 +24,8 @@
   <a href="https://github.com/AlexSeitov/gulp-webpack-starter">
     <img src="https://camo.githubusercontent.com/cb323d500fdad40831727bc439547e8fc6c83efd97c92936fb01a3845b97af73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d416c6578536569746f76267468656d653d70616e6461267265706f3d67756c702d7765627061636b2d73746172746572" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=gulp-webpack-starter" width="350px" />
   </a>
+  
+  ---
   
   <div>
     <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=discord_old_blurple" />
