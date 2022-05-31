@@ -25,11 +25,9 @@
     <img src="https://camo.githubusercontent.com/cb323d500fdad40831727bc439547e8fc6c83efd97c92936fb01a3845b97af73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d416c6578536569746f76267468656d653d70616e6461267265706f3d67756c702d7765627061636b2d73746172746572" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=gulp-webpack-starter" width="350px" />
   </a>
   
-  <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
-  
   <div>
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=panda" />
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=panda" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=discord_old_blurple" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=discord_old_blurple" />
   </div>
 </div>
 
