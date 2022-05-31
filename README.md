@@ -27,8 +27,12 @@
   ---
   
   <div>
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
+    <a href="#">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
+    </a>
+    <a href="#">
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSeitov&layout=compact&show_icons=true&theme=gotham" />
+    </a>
   </div>
 </div>
 
