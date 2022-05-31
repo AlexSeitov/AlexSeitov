@@ -1,6 +1,6 @@
 
 
-<div align="center" background="#ccc">
+<div>
   
 <!--   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=gifts-and-merch)](https://github.com/AlexSeitov/gifts-and-merch)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexSeitov&theme=panda&repo=inkom-layout)](https://github.com/AlexSeitov/inkom-layout)
